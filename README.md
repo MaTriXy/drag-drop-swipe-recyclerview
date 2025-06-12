@@ -1,7 +1,12 @@
+## 🪦 RIP: This library is now archived
+
+It was nice while it lasted, but Compose has made this obsolete. However, you can check out [`DragDropSwipeLazyColumn`](https://github.com/ernestoyaquello/DragDropSwipeLazyColumn), a Compose library with the same functionality.
+
+> If you must, the rest of this outdated readme continues below.
+
+---
+
 # Drag & Drop n' Swipe Recyclerview
-[![issues](https://img.shields.io/github/issues/ernestoyaquello/DragDropSwipeRecyclerview?style=for-the-badge)](https://github.com/ernestoyaquello/DragDropSwipeRecyclerview/issues)
-[![pull requests](https://img.shields.io/github/issues-pr/ernestoyaquello/DragDropSwipeRecyclerview?style=for-the-badge)](https://github.com/ernestoyaquello/DragDropSwipeRecyclerview/pulls)
-[![contributors](https://img.shields.io/github/contributors/ernestoyaquello/DragDropSwipeRecyclerview?style=for-the-badge)](https://github.com/ernestoyaquello/DragDropSwipeRecyclerview/graphs/contributors)
 
 Highly customizable Android library written in Kotlin that uses AndroidX and extends `RecyclerView` to include extra features, such as support for *drag & drop* and *swipe* gestures, among others. It works with vertical, horizontal and grid lists.
 
